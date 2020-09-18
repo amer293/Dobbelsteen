@@ -30,7 +30,7 @@ public class main {
         //Generates random number 1 - 6
         int randomInt = (int)(Math.random() * (MAX - MIN + MIN) + MIN);
 
-        //First check if the number is 6
+        //First check if the number  is 6
         //If number is six display chosen char
         if (randomInt == MAX)
         {
