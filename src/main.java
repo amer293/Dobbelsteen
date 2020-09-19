@@ -3,7 +3,7 @@
 /@Author: Amer Zahirovic
 /@Group: IS109 SQUAD D
 /Description: Een applicatie die herhaaldelijk een dobbelsteen gooit
-/tot dat zes wordt gegooid. Na iedere worp moet de waarde afgedrukt worden als een “ASCII tekening".
+/tot dat zes wordt gegooid. Na iedere worp moet de waarde afgedrukt worden als een “ASCII tekening"
 */
 
 import java.util.Scanner;
